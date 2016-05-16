@@ -49,6 +49,7 @@
    <li class='active'><a href='roster.php'><span>Rosters</span></a></li>
    <li><a href='request.php'><span>Request</span></a></li>
    <li><a href='chat2.php'><span>Chat</span></a></li>
+   <li><a href='search.php'><span>Search</span></a></li>
    <li><a href='manager.php'><span>Manager</span></a></li>
    <li><a href='register.php'><span>New User</span></a></li>
    <li><a href='newrosters.php'><span>New Roster</span></a></li>

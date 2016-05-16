@@ -1,3 +1,25 @@
+<!--
+
+* roster.php
+
+* roster interface - connected to rosterjava.js
+
+*
+
+* Version information e.g. Version 6
+
+*
+
+* Date e.g. 19/04/2016
+
+* @author Kellie Hughes, X12388761
+
+*
+
+*/
+
+-->
+
 <?php
 
 ?>
@@ -34,6 +56,9 @@
             </li>
             <li>
                 <a href='chat2.php'><span>Chat</span></a>
+            </li>
+            <li>
+                <a href='search.php'><span>Search</span></a>
             </li>
             <li class='last'>
                 <a href='manager.php'><span>Manager</span></a>

@@ -1,3 +1,26 @@
+<!--
+
+* search.php
+
+* search interface - connected to searchjava.js
+
+*
+
+* Version information e.g. Version 6
+
+*
+
+* Date e.g. 19/04/2016
+
+* @author Kellie Hughes, X12388761
+
+*
+
+*/
+
+-->
+
+
 <?php
 
 ?>
@@ -51,32 +74,14 @@
 
 <body background="dark.jpg">
 <center>
-<h3><font color="white">Find person by email</font></h3>
-
-
-<h5><font color="white">Search by email</font></h5>
+<h3>Find person by email</h3>
+<h5>Search by email</h5>
 <form>
   <input type="text" placeholder="admin@shiftsapp.com..." />
   <button>search</button>
-  <p></p>
 </form>
+<p></p>
 
-<h3><font color="white">Find day of hours</font></h3>
-
-<h5><font color="white">Search by date</font></h5>
-<form>
-  <input type="date" />
-  <button>search</button>
-</form>
-
-<h3><font color="white">Find day of name of employee</font></h3>
-
-
-<h5><font color="white">Search by name</font></h5>
-<form>
-  <input type="text" placeholder="Kellie Hughes" />
-  <button>search</button>
-</form>
 
 <pre></pre>
 

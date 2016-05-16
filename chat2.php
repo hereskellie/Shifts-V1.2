@@ -59,6 +59,9 @@
             <li class='active'>
                 <a href='chat2.php'><span>Chat</span></a>
             </li>
+            <li class='active'>
+                <a href='search.php'><span>Search</span></a>
+            </li>
             <li class='last'>
                 <a href='manager.php'><span>Manager</span></a>
             </li>

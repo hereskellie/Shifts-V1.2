@@ -1,4 +1,23 @@
 
+
+/*
+
+* rosterjava.js
+
+
+*
+
+* Version information e.g. Version 6
+
+*
+
+* Date e.g. 19/04/2016
+
+* @author Kellie Hughes, X12388761
+
+*
+
+*/
  //ROSTERS SAVING 
  //ROSTERS FOR MONDAYS
  $(function Monday(){
