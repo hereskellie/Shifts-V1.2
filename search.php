@@ -74,13 +74,14 @@
 
 <body background="dark.jpg">
 <center>
+<font color="white">
 <h3>Find person by email</h3>
 <h5>Search by email</h5>
+</font>
 <form>
   <input type="text" placeholder="admin@shiftsapp.com..." />
   <button>search</button>
 </form>
-<p></p>
 
 
 <pre></pre>
